@@ -1,6 +1,6 @@
 # Swampscott Boards & Committees — Current Members
 
-_Scraped from swampscottma.gov, last updated 2026-11-14. Check the board's page for the official roster._
+_Scraped from swampscottma.gov, last updated 2026-11-20. Check the board's page for the official roster._
 
 
 ## Affordable Housing Trust
@@ -361,6 +361,7 @@ _Scraped from swampscottma.gov, last updated 2026-11-14. Check the board's page 
 | Alix Smullin | Vice Chair | Resident | 2029 | 2026-11-14 |
 | Dr. Peter Sheckman | Member | Resident | 2027 | 2026-11-14 |
 | Dr. Stefanie Neumann | Member | Resident | 2028 | 2026-11-14 |
+| ​Emily Westhoven | Chair | Resident | 2029 | 2026-11-14 |
 | Gino Cresta | Director of Public Works | Ex-Officio |  | 2026-11-14 |
 | Helen Tieger | BoH | Board of Health Appointee |  | 2026-11-14 |
 | Jeff Vaughan | Director of Health | Ex-Officio |  | 2026-11-14 |
@@ -368,7 +369,6 @@ _Scraped from swampscottma.gov, last updated 2026-11-14. Check the board's page 
 | Katherine Mikk | Member | Resident | 2027 | 2026-11-14 |
 | Regan Walker | Member | Resident | 2028 | 2026-11-14 |
 | Wayne Spritz | Liaison | Select Board Liaison |  | 2026-11-14 |
-| ​Emily Westhoven | Chair | Resident | 2029 | 2026-11-14 |
 
 ## Swampscott For All Ages Committee
 

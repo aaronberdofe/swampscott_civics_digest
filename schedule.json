@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "dayOfWeek": 5,
+  "hour": 6,
+  "minute": 0,
+  "timezone": "America/New_York",
+  "refreshRosterFirst": true,
+  "sendEmailAfterRun": true,
+  "lastScheduledDate": "2026-11-20",
+  "lastRunAt": "2026-11-20T16:27:37.505Z",
+  "lastRunStatus": "done",
+  "lastRunMessage": "Generated digests/2026-11-20.md, updated /rss.xml (email skipped/warning)."
+}

@@ -2,12 +2,95 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Swampscott Civic Digest</title>
-    <link>https://ais-dev-vj2cwhubfavr2pj5cve5hz-670925281959.us-east1.run.app</link>
-    <atom:link href="https://ais-dev-vj2cwhubfavr2pj5cve5hz-670925281959.us-east1.run.app/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://aaronberdofe.github.io/swampscott_civics_digest</link>
+    <atom:link href="https://aaronberdofe.github.io/swampscott_civics_digest/rss.xml" rel="self" type="application/rss+xml" />
     <description>Weekly summaries of Swampscott, MA town boards, committees, agendas, minutes, transcripts, and formal votes.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 21:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
-
+    <item>
+      <title>Swampscott Civic Digest — week ending 2026-11-20</title>
+      <link>https://aaronberdofe.github.io/swampscott_civics_digest/?digest=2026-11-20.md</link>
+      <guid isPermaLink="false">swampscott-civic-digest-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 11:00:00 GMT</pubDate>
+      <description>Source: Transcript, Agenda Attendance: Joseph Sheridan (Chair), Jer Jurma, Ariane Purdy, Bill Quinn. Petition 26 14 (8 Palmer Avenue): Approved a Site Plan Special Permit for garage and interior/exterior additions. The project increases open space by approximately 6% by replacing a concrete patio with pervious gravel. Petition 26 15 (487 Humphrey Street): Continued to December 14. The board requested significant rev…</description>
+      <content:encoded><![CDATA[<h1>Swampscott Civic Digest — week ending 2026-11-20</h1>
+<h2>Meetings this week</h2>
+<h3>Planning Board, 2026-11-16</h3>
+<ul>
+<li><strong>Source:</strong> Transcript, Agenda</li>
+<li><strong>Attendance:</strong> Joseph Sheridan (Chair), Jer Jurma, Ariane Purdy, Bill Quinn.</li>
+<li><strong>Petition 26-14 (8 Palmer Avenue):</strong> Approved a Site Plan Special Permit for garage and interior/exterior additions. The project increases open space by approximately 6% by replacing a concrete patio with pervious gravel.</li>
+<li><strong>Petition 26-15 (487 Humphrey Street):</strong> Continued to December 14. The board requested significant revisions to site safety and design, specifically regarding egress, dumpster enclosure, utility screening, and landscaping/buffering to protect the neighbor. The board expressed safety concerns about side doors/stoops opening directly into a narrow drive aisle.</li>
+<li><strong>Administrative:</strong> Approved the 2027 meeting and submittal schedule.</li>
+</ul>
+<h3>Select Board, 2026-11-18</h3>
+<ul>
+<li><strong>Source:</strong> Transcript, Agenda</li>
+<li><strong>Attendance:</strong> Katie Phelan (Chair), Danielle Leonard (Vice Chair), MaryEllen Fletcher, Ted Dooley, Wayne Spritz.</li>
+<li><strong>Trash &amp; Recycling:</strong> Town Administrator Connors announced a transition to a &quot;toter-tipper&quot; collection system and a shift to every-other-week recycling pickup starting January 2027.</li>
+<li><strong>Parking:</strong> Approved resident-only parking (year-round) for Ingalls Terrace and the entirety of Cedar Hill Terrace, with specific &quot;No Parking&quot; zones for safety.</li>
+<li><strong>Labor Agreements:</strong> Approved Memoranda of Agreement (MOA) for AFSCME 2610 (DPW) and SEIU 888 (Library).</li>
+<li><strong>Governance:</strong> Formally adopted the town website as the official posting location for public meetings.</li>
+<li><strong>Disability Commission:</strong> Approved increasing the commission&#39;s membership from 5 to 7 to manage workload.</li>
+<li><strong>Tax Classification:</strong> Opened the public hearing on FY2027 tax rates; hearing continued to December 2 as official state certification is pending.</li>
+</ul>
+<h3>Planning Board, 2026-11-09</h3>
+<ul>
+<li><strong>Source:</strong> Transcript</li>
+<li><strong>Attendance:</strong> Bill Quinn (Acting Chair), Jer Jurma, Ariane Purdy. (Note: Board was short on members, forcing the continuation of several items).</li>
+<li><strong>Petitions:</strong> Continued Petition 26-11 (45 Pleasant St) to December 14; continued Petitions 26-14 and 26-15 to the November 16 special meeting.</li>
+<li><strong>Zoning Amendments:</strong> Tabled two proposed zoning articles (codification and state law alignment) as they did not make the December town meeting warrant; they will be revisited for the Spring Annual Town Meeting.</li>
+<li><strong>Citizen&#39;s Petition (Tom Bogacz):</strong> Held a public hearing for an amendment to align medical marijuana zoning with state law, permitting standalone medical retail stores. The board voted to recommend favorable action at Town Meeting, with a suggested amendment to require a Special Permit for facilities between 2,000–10,000 sq. ft. in B-3 and B-4 districts.</li>
+</ul>
+<h2>Connections to town planning documents</h2>
+<ul>
+<li><strong>Select Board (11/18):</strong> Discussed the PACE program for energy efficiency, connecting to <strong>Buildings &amp; Energy 2.2.B</strong> (C-PACE program) in the <em>Climate Action &amp; Resilience Plan</em>.</li>
+<li><strong>Planning Board (11/09):</strong> The marijuana zoning amendment relates to <strong>LU-S041</strong> (recodifying the zoning bylaw) and <strong>ED-G03</strong> (support mixed-use development) in the <em>Master Plan 2035</em>.</li>
+<li><strong>Select Board (11/18):</strong> Parking changes relate to <strong>TR-G04</strong> (manage traffic &amp; parking) and <strong>PF-S012</strong> (sidewalk/overgrowth) in the <em>Master Plan 2035</em>.</li>
+</ul>
+<h2>Coming up next week</h2>
+<ul>
+<li><strong>Finance Committee:</strong> 2026-11-23 (December warrant articles, 2028 forecast, FY27 tax rate analysis).</li>
+<li><strong>Solid Waste Advisory Committee:</strong> 2026-11-23 (Trash contract roll-out updates, school composting audit).</li>
+<li><strong>Retirement Board:</strong> 2026-11-24 (Financial reports, 2027 budget).</li>
+</ul>
+<h2>Board &amp; committee membership changes</h2>
+<ul>
+<li>Martha Schmitt on Master Plan Committee: role changed from Climate Action Plan Committee Rep to Renewable Energy Rep</li>
+<li>Edward “Ted” Dooley on Master Plan Committee: role changed from Planning Board Rep to Harbor &amp; Waterfront Committee Rep</li>
+<li>Martha Schmitt on Master Plan Committee: role changed from Renewable Energy Rep to Climate Action Plan Committee Rep</li>
+<li>Edward “Ted” Dooley on Master Plan Committee: role changed from Harbor &amp; Waterfront Committee Rep to Planning Board Rep</li>
+</ul>
+<p><em>Full table: roster.md</em></p>
+<h2>Running vote tally by board/committee</h2>
+<table>
+<thead>
+<tr>
+<th>Board / Committee</th>
+<th>Votes</th>
+<th>Passed</th>
+<th>Failed</th>
+<th>Last vote</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Planning Board</td>
+<td>7</td>
+<td>3</td>
+<td>0</td>
+<td>2026-11-16</td>
+</tr>
+<tr>
+<td>Select Board</td>
+<td>7</td>
+<td>5</td>
+<td>0</td>
+<td>2026-11-18</td>
+</tr>
+</tbody></table>
+<p><em>Auto-generated by an LLM from public sources; check the linked agendas, minutes and videos before relying on any detail.</em></p>
+]]></content:encoded>
+    </item>
   </channel>
 </rss>
