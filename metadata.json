@@ -1,0 +1,6 @@
+{
+  "name": "Swampscott Civic Digest",
+  "description": "Weekly civic digest, board & committee roster tracker, planning document context, and formal vote tally for Swampscott, Massachusetts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swampscott Civic Digest</title>
+    <link>https://ais-dev-vj2cwhubfavr2pj5cve5hz-670925281959.us-east1.run.app</link>
+    <atom:link href="https://ais-dev-vj2cwhubfavr2pj5cve5hz-670925281959.us-east1.run.app/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Weekly summaries of Swampscott, MA town boards, committees, agendas, minutes, transcripts, and formal votes.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2026 21:21:40 GMT</lastBuildDate>
+    <ttl>60</ttl>
+
+  </channel>
+</rss>

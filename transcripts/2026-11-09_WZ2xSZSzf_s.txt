@@ -1,0 +1,115 @@
+TITLE: Planning Board - November 9, 2026
+URL: https://www.youtube.com/watch?v=WZ2xSZSzf_s
+PUBLISHED: 2026-11-09
+
+### Meeting Record: Town of Swampscott Planning Board
+**Date Stated in Meeting:** November 9, 2026  
+**Body:** Swampscott Planning Board  
+
+#### Board Members & Staff Present
+* **Bill Quinn** – Member (acting Chair, center seat)
+* **Jer Jurma** – Member (left seat)
+* **Ariane Purdy** – Member (right seat)
+* **Christa** – Town Staff / Planner (seated at side table with laptop)
+
+#### Other Attendees Identified
+* **Kenneth Shutzer, Esq.** – In audience (foreground)
+* **Tom Bogacz** – Citizen Petitioner (25 Ingles Terrace; co-owner of Terpene Journey)
+
+---
+
+### Chronological Meeting Record
+
+#### **00:00 – 10:40 | Pre-Meeting Hold**
+* A *"PLEASE STAND BY MEETING WILL START SHORTLY"* graphic covers the screen while board members and attendees prepare. Member Jer Jurma arrives at **09:58**. The overlay is removed at **10:40**.
+
+#### **10:42 – 11:55 | Call to Order & Procedural Announcements**
+* **Bill Quinn** calls the November 9, 2026 Swampscott Planning Board meeting to order (**10:47**).
+* Quinn notes the board is short on members, providing a minimum quorum for certain votes, though not enough members for public hearings on the first three agenda items. He explains the first three items will need to be opened and continued: the first to December 14 (clarified by **Christa** at **11:24**), and the second and third to a special meeting on November 16.
+
+---
+
+#### **11:58 – 12:29 | Agenda Item 1: Petition 26-11 (45 Pleasant Street)**
+* **Bill Quinn** opens Petition 26-11 for 45 Pleasant Street, submitted by Kenneth Shutzer, Esq.
+* **Motion:** Continue Petition 26-11 to December 14.
+  * **Moved by:** Jer Jurma (**12:12**)
+  * **Seconded by:** Ariane Purdy (**12:14**)
+* **Vote Outcome:** Passed **3–0** (All in favor: *"Aye"*).
+
+---
+
+#### **12:30 – 12:52 | Agenda Item 2: Petition 26-14 (Graham Salzberg)**
+* **Bill Quinn** opens Petition 26-14 by Graham Salzberg for a site plan special permit.
+* **Motion:** Continue Petition 26-14 until November 16.
+  * **Moved by:** Ariane Purdy (**12:41**)
+  * **Seconded by:** Jer Jurma (**12:46**)
+* **Vote Outcome:** Passed **3–0** (All in favor: *"Aye"*).
+
+---
+
+#### **12:53 – 13:18 | Agenda Item 3: Petition 26-15 (BuildWise Partners)**
+* **Bill Quinn** opens Agenda Item 3, Petition 26-15 submitted by Kenneth Shutzer for BuildWise Partners.
+* **Motion:** Continue Petition 26-15 until November 16.
+  * **Moved by:** Ariane Purdy (**13:08**)
+  * **Seconded by:** Jer Jurma (**13:10**)
+* **Vote Outcome:** Passed **3–0** (All in favor: *"Aye"*).
+
+---
+
+#### **13:20 – 16:28 | Agenda Items 4 & 5: Draft Zoning Article Amendments (Town Clerk's Office)**
+* **Bill Quinn** and **Christa** explain that Agenda Items 4 and 5 are zoning amendments from the Town Clerk's office regarding the codification of the zoning code to bring it online and align with state law. Because the articles did not make it into the published warrant for the December meeting, they are being moved to the Spring Annual Town Meeting and will return to the Planning Board after the first of the year.
+* **Ariane Purdy** confirms these are the typo and legal-language updates previously reviewed. **Christa** suggests the Board can vote to table them just in case, though they will likely need to be re-advertised.
+
+* **Agenda Item 4 – Draft Zoning Amendments (Codification):**
+  * **Motion:** Table the public hearing on the draft zoning amendments regarding codification.
+    * **Moved by:** Jer Jurma (**15:59**)
+    * **Seconded by:** Ariane Purdy (**16:01**)
+  * **Vote Outcome:** Passed **3–0** (All in favor: *"Aye"*). Item tabled.
+
+* **Agenda Item 5 – Draft Zoning Amendments (Alignment with State Law):**
+  * **Motion:** Table the public hearing to a future date to be determined.
+    * **Moved by:** Ariane Purdy (**16:18**)
+    * **Seconded by:** Jer Jurma (**16:22**)
+  * **Vote Outcome:** Passed **3–0** (All in favor: *"Aye"*). Item tabled.
+
+---
+
+#### **16:30 – 46:01 | Agenda Item 6: Public Hearing – Citizens' Petition by Tom Bogacz**
+* **16:34 | Opening:** **Bill Quinn** opens the public hearing for the drafting zoning amendment for a citizens' petition submitted by Tom Bogacz.
+* **17:16 – 20:45 | Petitioner Presentation:** **Tom Bogacz** (25 Ingles Terrace, co-owner of Terpene Journey in Vinnin Square) presents his proposed amendment (*"Article to Align Medical Marijuana Zoning with State Law to Expand Local Retail Options"*):
+  * Historically, Massachusetts required medical marijuana operators to be vertically integrated (growing, manufacturing, and retail), favoring large out-of-state companies. Adult-use/recreational cannabis allowed horizontal integration (standalone retail stores).
+  * In the spring, the state changed its law to allow horizontal integration for medical marijuana, permitting standalone retail stores like his to serve medical patients.
+  * Swampscott's current bylaws only allow medical marijuana sales in the Industrial district, while both existing recreational dispensaries are in Business districts. His petition proposes allowing medical sales wherever recreational retail sales are allowed.
+  * **Buffer Zone Note:** Existing medical marijuana bylaws maintain a 1,000-foot buffer from elementary, middle, and high schools and public libraries. Bogacz states his competitor down the street is a few feet shy of 1,000 feet from the public library (clarified at **21:27**), meaning only his store would qualify for medical sales under the 1,000-foot rule unless Town Meeting lowers the buffer (e.g., to 500 feet) following neighbor feedback.
+
+* **20:46 – 41:28 | Board Discussion & Q&A:**
+  * **Size Thresholds (Lines 50–52):** Screen-sharing the redline amendment (**20:10**, **22:10**), **Ariane Purdy** and **Jer Jurma** note that proposed Line 51 (facilities containing 2,000 to 10,000 sq. ft. of gross floor area) would be allowed by right (`Y`) in districts B-3 and B-4, and by Special Permit (`SP`) in B-1 and B-2. Bogacz confirms his current store is 1,411 sq. ft. and says he copied the square-footage tiers from existing general retail bylaws so existing businesses wouldn't need a special permit unless general retail required one.
+  * **Zoning Districts:** **Christa** shares the MassGIS zoning map (**27:00**, **35:49**), confirming Vinnin Square is split between B-3 and B-4, while the other dispensary (corner of New Ocean) is in B-1.
+  * **Town Counsel Review:** **Christa** reports (**29:27**) that KP Law's marijuana specialist reviewed the draft and found it structurally sound from a zoning standpoint, only questioning why the 1,000-foot buffer was left unchanged.
+  * **Dispensary Cap & Operations:** Board members and Bogacz confirm Swampscott's cap of two cannabis dispensaries (tied to state law and liquor license percentages) is separate from zoning and would not be overridden. Bogacz outlines operational differences for medical sales: medical purchases are tax-exempt (versus the 3% local tax on recreational), require a dedicated checkout line, include higher edible dosage limits (up to 1,000 mg vs. 100 mg), and require state tracking of medical patient cards. He estimates medical sales might draw 50 to 150–200 customers per day.
+
+* **41:30 – 41:57 | Public Comment:**
+  * **Bill Quinn** opens the floor for public comment. **Christa** invites anyone online to raise their hand. No members of the public in the room or online speak.
+
+* **41:58 – 42:08 | Closing the Public Hearing:**
+  * **Motion:** Close the public hearing.
+    * **Moved by:** Jer Jurma (**42:05**)
+    * **Seconded by:** Ariane Purdy (**42:06**)
+  * **Outcome:** Public hearing closed.
+
+* **42:09 – 45:56 | Board Deliberation & Recommendation Vote:**
+  * **Ariane Purdy** and **Jer Jurma** express support for the overall alignment and clearer definitions, but recommend changing B-3 and B-4 on Line 51 (2,000–10,000 sq. ft.) from by right (`Y`) to Special Permit (`SP`) to ensure review for any future large-scale dispensary.
+  * **Tom Bogacz** agrees with the change. **Bill Quinn** and **Christa** confirm the amendment cannot be altered prior to Town Meeting because it was already advertised as printed, so the modification must be made as a floor amendment at Town Meeting, backed by the Planning Board's recommendation.
+  * **Motion:** Recommend **favorable action** (endorsement) at Town Meeting, with the suggested modification for districts B-3 and B-4 (on Line 51) to require a Special Permit.
+    * **Moved by:** Jer Jurma (**45:37**)
+    * **Seconded by:** Ariane Purdy (**45:50**)
+  * **Vote Outcome:** Passed **3–0** (All in favor: *"Aye"*).
+
+---
+
+#### **46:04 – 46:46 | Draft 2027 Schedule & Adjournment**
+* **Christa** notes (**46:08**) that she provided the Board with draft 2027 meeting dates and deadlines for review, to be voted on at the special Planning Board meeting next Monday, November 16.
+* **Motion:** Adjourn (*"complete the shortest Planning Board meeting ever"*).
+  * **Moved by:** Jer Jurma (**46:39**)
+  * **Seconded by:** Ariane Purdy (**46:40**)
+* **Vote Outcome:** Passed **3–0** (All in favor: *"Aye"*). Meeting adjourned at **46:46**.
