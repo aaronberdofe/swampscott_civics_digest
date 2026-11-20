@@ -1,0 +1,186 @@
+﻿2026-11-20T16:06:45.5642969Z Current runner version: '2.338.2'
+2026-11-20T16:06:45.5660973Z ##[group]Runner Image Provisioner
+2026-11-20T16:06:45.5661655Z Hosted Compute Agent
+2026-11-20T16:06:45.5662421Z Version: 20261111.635
+2026-11-20T16:06:45.5662872Z Commit: b8a594ea514ff44cadb5342986c68b1eac6e22ed
+2026-11-20T16:06:45.5663400Z Build Date: 2026-11-11T01:49:01Z
+2026-11-20T16:06:45.5663904Z Worker ID: {d4cfd162-8196-4931-a228-5ce41ff97670}
+2026-11-20T16:06:45.5664403Z Region: us-west-2
+2026-11-20T16:06:45.5664822Z Cloud: AWS
+2026-11-20T16:06:45.5665193Z ##[endgroup]
+2026-11-20T16:06:45.5666142Z ##[group]Operating System
+2026-11-20T16:06:45.5666624Z Ubuntu
+2026-11-20T16:06:45.5666989Z 26.04.1
+2026-11-20T16:06:45.5667374Z LTS
+2026-11-20T16:06:45.5667734Z ##[endgroup]
+2026-11-20T16:06:45.5668108Z ##[group]Runner Image
+2026-11-20T16:06:45.5668593Z Image: ubuntu-26.04
+2026-11-20T16:06:45.5668991Z Version: 20261116.88.1
+2026-11-20T16:06:45.5670146Z Included Software: https://github.com/actions/runner-images/blob/ubuntu26/20261116.88/images/ubuntu/Ubuntu2604-Readme.md
+2026-11-20T16:06:45.5671355Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu26%2F20261116.88
+2026-11-20T16:06:45.5672324Z ##[endgroup]
+2026-11-20T16:06:45.5673204Z ##[group]GITHUB_TOKEN Permissions
+2026-11-20T16:06:45.5674992Z Contents: write
+2026-11-20T16:06:45.5675402Z Metadata: read
+2026-11-20T16:06:45.5675806Z Pages: write
+2026-11-20T16:06:45.5676200Z ##[endgroup]
+2026-11-20T16:06:45.5677741Z Secret source: Actions
+2026-11-20T16:06:45.5678388Z Cache mode: write
+2026-11-20T16:06:45.5678867Z Prepare workflow directory
+2026-11-20T16:06:45.5904042Z Prepare all required actions
+2026-11-20T16:06:45.5939419Z Getting action download info
+2026-11-20T16:06:45.9382884Z Download action repository 'actions/checkout@v4' (SHA:11d5960a326750d5838078e36cf38b85af677262)
+2026-11-20T16:06:48.0876366Z Download action repository 'actions/setup-node@v4' (SHA:49933ea5288caeca8642d1e84afbd3f7d6820020)
+2026-11-20T16:06:48.4062908Z Download action repository 'actions/upload-pages-artifact@v3' (SHA:56afc609e74202658d3ffba0e8f6dda462b719fa)
+2026-11-20T16:06:48.6858262Z Getting action download info
+2026-11-20T16:06:48.8198348Z Download action repository 'actions/upload-artifact@v4' (SHA:ea165f8d65b6e75b540449e92b4886f43607fa02)
+2026-11-20T16:06:49.1981278Z Complete job name: digest
+2026-11-20T16:06:49.2547388Z ##[group]Run actions/checkout@v4
+2026-11-20T16:06:49.2547819Z with:
+2026-11-20T16:06:49.2548124Z   repository: aaronberdofe/swampscott_civics_digest
+2026-11-20T16:06:49.2550010Z   token: ***
+2026-11-20T16:06:49.2550255Z   ssh-strict: true
+2026-11-20T16:06:49.2550490Z   ssh-user: git
+2026-11-20T16:06:49.2550726Z   persist-credentials: true
+2026-11-20T16:06:49.2551002Z   clean: true
+2026-11-20T16:06:49.2551272Z   sparse-checkout-cone-mode: true
+2026-11-20T16:06:49.2551538Z   fetch-depth: 1
+2026-11-20T16:06:49.2552063Z   fetch-tags: false
+2026-11-20T16:06:49.2552301Z   show-progress: true
+2026-11-20T16:06:49.2552524Z   lfs: false
+2026-11-20T16:06:49.2552766Z   submodules: false
+2026-11-20T16:06:49.2553026Z   set-safe-directory: true
+2026-11-20T16:06:49.2553531Z   allow-unsafe-pr-checkout: false
+2026-11-20T16:06:49.2554001Z ##[endgroup]
+2026-11-20T16:06:54.8183086Z Syncing repository: aaronberdofe/swampscott_civics_digest
+2026-11-20T16:06:54.8184364Z ##[group]Getting Git version info
+2026-11-20T16:06:54.8184936Z Working directory is '/home/runner/work/swampscott_civics_digest/swampscott_civics_digest'
+2026-11-20T16:06:54.8185526Z [command]/usr/bin/git version
+2026-11-20T16:06:54.8198506Z git version 2.56.1
+2026-11-20T16:06:54.8213391Z ##[endgroup]
+2026-11-20T16:06:54.8220421Z Temporarily overriding HOME='/home/runner/work/_temp/39f5b464-9172-416e-ad41-ab78797da810' before making global git config changes
+2026-11-20T16:06:54.8221267Z Adding repository directory to the temporary git global config as a safe directory
+2026-11-20T16:06:54.8224302Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/swampscott_civics_digest/swampscott_civics_digest
+2026-11-20T16:06:54.8906949Z Deleting the contents of '/home/runner/work/swampscott_civics_digest/swampscott_civics_digest'
+2026-11-20T16:06:54.8908892Z ##[group]Initializing the repository
+2026-11-20T16:06:54.8913885Z [command]/usr/bin/git init /home/runner/work/swampscott_civics_digest/swampscott_civics_digest
+2026-11-20T16:06:54.9963283Z hint: Using 'master' as the name for the initial branch. This default branch name
+2026-11-20T16:06:54.9963918Z hint: will change to "main" in Git 3.0. To configure the initial branch name
+2026-11-20T16:06:54.9964391Z hint: to use in all of your new repositories, which will suppress this warning,
+2026-11-20T16:06:54.9964769Z hint: call:
+2026-11-20T16:06:54.9965011Z hint:
+2026-11-20T16:06:54.9965356Z hint: 	git config --global init.defaultBranch <name>
+2026-11-20T16:06:54.9965648Z hint:
+2026-11-20T16:06:54.9965931Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+2026-11-20T16:06:54.9966368Z hint: 'development'. The just-created branch can be renamed via this command:
+2026-11-20T16:06:54.9966871Z hint:
+2026-11-20T16:06:54.9967145Z hint: 	git branch -m <name>
+2026-11-20T16:06:54.9967365Z hint:
+2026-11-20T16:06:54.9967680Z hint: Disable this message with "git config set advice.defaultBranchName false"
+2026-11-20T16:06:54.9990152Z Initialized empty Git repository in /home/runner/work/swampscott_civics_digest/swampscott_civics_digest/.git/
+2026-11-20T16:06:54.9998549Z [command]/usr/bin/git remote add origin https://github.com/aaronberdofe/swampscott_civics_digest
+2026-11-20T16:06:55.0092636Z ##[endgroup]
+2026-11-20T16:06:55.0093259Z ##[group]Disabling automatic garbage collection
+2026-11-20T16:06:55.0095996Z [command]/usr/bin/git config --local gc.auto 0
+2026-11-20T16:06:55.0118950Z ##[endgroup]
+2026-11-20T16:06:55.0119499Z ##[group]Setting up auth
+2026-11-20T16:06:55.0124824Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2026-11-20T16:06:55.0146815Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2026-11-20T16:06:55.6131099Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2026-11-20T16:06:55.6157104Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2026-11-20T16:06:55.6333597Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+2026-11-20T16:06:55.6354912Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+2026-11-20T16:06:55.6528066Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+2026-11-20T16:06:55.6553716Z ##[endgroup]
+2026-11-20T16:06:55.6554713Z ##[group]Fetching the repository
+2026-11-20T16:06:55.6560085Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +58698ac91f0ff6dfd5313fe19b473fe22f430c95:refs/remotes/origin/main
+2026-11-20T16:06:56.1929352Z From https://github.com/aaronberdofe/swampscott_civics_digest
+2026-11-20T16:06:56.1930188Z  * [new ref]         58698ac91f0ff6dfd5313fe19b473fe22f430c95 -> origin/main
+2026-11-20T16:06:56.1933334Z ##[endgroup]
+2026-11-20T16:06:56.1933800Z ##[group]Determining the checkout info
+2026-11-20T16:06:56.1935174Z ##[endgroup]
+2026-11-20T16:06:56.1940116Z [command]/usr/bin/git sparse-checkout disable
+2026-11-20T16:06:56.2006955Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+2026-11-20T16:06:56.2061437Z ##[group]Checking out the ref
+2026-11-20T16:06:56.2064161Z [command]/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+2026-11-20T16:06:56.2201107Z Switched to a new branch 'main'
+2026-11-20T16:06:56.2211995Z branch 'main' set up to track 'origin/main'.
+2026-11-20T16:06:56.2215662Z ##[endgroup]
+2026-11-20T16:06:56.2266322Z [command]/usr/bin/git log -1 --format=%H
+2026-11-20T16:06:56.2282363Z 58698ac91f0ff6dfd5313fe19b473fe22f430c95
+2026-11-20T16:06:56.2485776Z ##[group]Run actions/setup-node@v4
+2026-11-20T16:06:56.2486070Z with:
+2026-11-20T16:06:56.2486282Z   node-version: 22
+2026-11-20T16:06:56.2486552Z   always-auth: false
+2026-11-20T16:06:56.2486788Z   check-latest: false
+2026-11-20T16:06:56.2488585Z   token: ***
+2026-11-20T16:06:56.2488813Z ##[endgroup]
+2026-11-20T16:06:56.5548484Z (node:2354) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2026-11-20T16:06:56.5549438Z (Use `node --trace-deprecation ...` to show where the warning was created)
+2026-11-20T16:06:56.5550287Z Found in cache @ /opt/hostedtoolcache/node/22.23.5/x64
+2026-11-20T16:06:56.5550780Z ##[group]Environment details
+2026-11-20T16:07:02.8906350Z node: v22.23.5
+2026-11-20T16:07:02.8906871Z npm: 10.9.9
+2026-11-20T16:07:02.8907121Z yarn: 1.22.22
+2026-11-20T16:07:02.8908177Z ##[endgroup]
+2026-11-20T16:07:02.8999741Z ##[group]Run if [ -f package-lock.json ]; then
+2026-11-20T16:07:02.9000161Z [36;1mif [ -f package-lock.json ]; then[0m
+2026-11-20T16:07:02.9000437Z [36;1m  npm ci[0m
+2026-11-20T16:07:02.9000763Z [36;1melse[0m
+2026-11-20T16:07:02.9000976Z [36;1m  npm install[0m
+2026-11-20T16:07:02.9001199Z [36;1mfi[0m
+2026-11-20T16:07:02.9036234Z shell: /usr/bin/bash -e {0}
+2026-11-20T16:07:02.9036614Z ##[endgroup]
+2026-11-20T16:07:17.0008204Z npm error code ERESOLVE
+2026-11-20T16:07:17.0008820Z npm error ERESOLVE could not resolve
+2026-11-20T16:07:17.0009140Z npm error
+2026-11-20T16:07:17.0009426Z npm error While resolving: vite@8.3.8
+2026-11-20T16:07:17.0009765Z npm error Found: esbuild@0.25.12
+2026-11-20T16:07:17.0010049Z npm error node_modules/esbuild
+2026-11-20T16:07:17.0010414Z npm error   dev esbuild@"^0.25.0" from the root project
+2026-11-20T16:07:17.0010706Z npm error
+2026-11-20T16:07:17.0010964Z npm error Could not resolve dependency:
+2026-11-20T16:07:17.0011569Z npm error peerOptional esbuild@"^0.27.0 || ^0.28.0" from vite@8.3.8
+2026-11-20T16:07:17.0012395Z npm error node_modules/vite
+2026-11-20T16:07:17.0012811Z npm error   vite@"^8.3.0" from the root project
+2026-11-20T16:07:17.0013361Z npm error   peer vite@"^5.2.0 || ^6 || ^7 || ^8" from @tailwindcss/vite@4.3.5
+2026-11-20T16:07:17.0013929Z npm error   node_modules/@tailwindcss/vite
+2026-11-20T16:07:17.0014439Z npm error     @tailwindcss/vite@"^4.3.3" from the root project
+2026-11-20T16:07:17.0014916Z npm error   1 more (@vitejs/plugin-react)
+2026-11-20T16:07:17.0015254Z npm error
+2026-11-20T16:07:17.0015647Z npm error Conflicting peer dependency: esbuild@0.28.2
+2026-11-20T16:07:17.0016116Z npm error node_modules/esbuild
+2026-11-20T16:07:17.0016665Z npm error   peerOptional esbuild@"^0.27.0 || ^0.28.0" from vite@8.3.8
+2026-11-20T16:07:17.0017169Z npm error   node_modules/vite
+2026-11-20T16:07:17.0017581Z npm error     vite@"^8.3.0" from the root project
+2026-11-20T16:07:17.0018182Z npm error     peer vite@"^5.2.0 || ^6 || ^7 || ^8" from @tailwindcss/vite@4.3.5
+2026-11-20T16:07:17.0018761Z npm error     node_modules/@tailwindcss/vite
+2026-11-20T16:07:17.0019307Z npm error       @tailwindcss/vite@"^4.3.3" from the root project
+2026-11-20T16:07:17.0019827Z npm error     1 more (@vitejs/plugin-react)
+2026-11-20T16:07:17.0020199Z npm error
+2026-11-20T16:07:17.0020619Z npm error Fix the upstream dependency conflict, or retry
+2026-11-20T16:07:17.0021205Z npm error this command with --force or --legacy-peer-deps
+2026-11-20T16:07:17.0022020Z npm error to accept an incorrect (and potentially broken) dependency resolution.
+2026-11-20T16:07:17.0022605Z npm error
+2026-11-20T16:07:17.0022897Z npm error
+2026-11-20T16:07:17.0023236Z npm error For a full report see:
+2026-11-20T16:07:17.0023979Z npm error /home/runner/.npm/_logs/2026-11-20T16_07_02_946Z-eresolve-report.txt
+2026-11-20T16:07:17.0024918Z npm error A complete log of this run can be found in: /home/runner/.npm/_logs/2026-11-20T16_07_02_946Z-debug-0.log
+2026-11-20T16:07:17.0241618Z ##[error]Process completed with exit code 1.
+2026-11-20T16:07:17.0369180Z Post job cleanup.
+2026-11-20T16:07:17.1033587Z [command]/usr/bin/git version
+2026-11-20T16:07:17.1041617Z git version 2.56.1
+2026-11-20T16:07:17.1072540Z Temporarily overriding HOME='/home/runner/work/_temp/461e7cc9-bf10-4b21-a90e-acdc4174e6a1' before making global git config changes
+2026-11-20T16:07:17.1073467Z Adding repository directory to the temporary git global config as a safe directory
+2026-11-20T16:07:17.1077032Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/swampscott_civics_digest/swampscott_civics_digest
+2026-11-20T16:07:17.1109637Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2026-11-20T16:07:17.1134264Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2026-11-20T16:07:17.1322197Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2026-11-20T16:07:17.1343250Z http.https://github.com/.extraheader
+2026-11-20T16:07:17.1353936Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+2026-11-20T16:07:17.1375852Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2026-11-20T16:07:17.1562573Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+2026-11-20T16:07:17.1584760Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+2026-11-20T16:07:17.1873579Z Evaluate and set job outputs
+2026-11-20T16:07:17.1879362Z Cleaning up orphan processes
+2026-11-20T16:07:17.2146671Z ##[warning]Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-node@v4. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
